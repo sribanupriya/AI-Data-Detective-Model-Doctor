@@ -143,8 +143,29 @@ Install the required libraries:
 
 ```bash
 pip install pandas numpy scipy scikit-learn matplotlib plotly joblib streamlit
+
 ## Project Screenshots
 
 ### Data Quality Analysis
 
-![Data Quality Analysis](./Screenshot_20260929-173114.Chrome.png)
+![Data Quality Analysis](./Screenshot_20260929-172823.Chrome.png)
+
+### Data Analysis
+
+![Data Analysis](./Screenshot_20260929-173051.Chrome.png)
+
+### Model Evaluation
+
+![Model Evaluation](./Screenshot_20260929-173059.Chrome.png)
+
+### Model Diagnosis
+
+![Model Diagnosis](./Screenshot_20260929-173114.Chrome.png)
+
+### Prediction Result
+
+![Prediction Result](./Screenshot_20260929-173126.Chrome.png)
+
+### Final Project Report
+
+![Final Project Report](./Screenshot_20260929-173132.Chrome.png)
